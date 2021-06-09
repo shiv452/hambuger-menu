@@ -1,0 +1,17 @@
+:root{
+      --primary-color: rgba(79, 154, 156, 0.75);
+      --secondary-color: rgba(229,148,0,0.9);
+      --overlay-color: rgba(24,39,51,0.85);
+      --menu-speed: 0.75s;
+}
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+body{
+      font-family: 'Time New Roman',cursive;
+      background: url(6.jpg);
+}
+
+
